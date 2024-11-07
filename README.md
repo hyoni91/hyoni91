@@ -28,12 +28,14 @@
     <div style="text-align: left;"> <a href=https://velog.io/@hyoni/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@hyoni/posts"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💁‍♀️ Projects </h2> <br> 
+    <div>SHOP STORE</div>
+    <div>MediClick1</div>
+    <div>MediClick2</div>
+    <div>MediClick3</div>
+    <div>TODOLIST</div>
     </div>
 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💁‍♀️ Projects </h2> <br> 
-    <div>SHOP STORE</div>
-    <div></div>
-    <div></div>
-    <div>TODOLIST</div>
+    
 
     
