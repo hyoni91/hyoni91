@@ -29,11 +29,9 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💁‍♀️ Projects </h2> <br> 
-    <div>SHOP STORE</div>
-    <div>MediClick1</div>
-    <div>MediClick2</div>
-    <div>MediClick3</div>
-    <div>TODOLIST</div>
+    <div><a>SHOP STORE</a></div>
+    <div><a href='https://github.com/hyoni91/MediClick'>MediClick</a></div>
+    <div><a href-'https://github.com/hyoni91/TodoList'>TODOLIST</a></div>
     </div>
 
     
