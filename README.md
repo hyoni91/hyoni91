@@ -29,4 +29,11 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
+
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💁‍♀️ Projects </h2> <br> 
+    <div>SHOP STORE</div>
+    <div></div>
+    <div></div>
+    <div>TODOLIST</div>
+
     
