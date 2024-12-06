@@ -24,7 +24,7 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Blog </h2>
     <h4>KOREAN</h4>
     <div style="text-align: left;"> <a href=https://velog.io/@hyoni/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@hyoni/posts"> </a>
     <h4>JAPANESE</h4>
@@ -35,7 +35,12 @@
     <div>📔<a> SHOP STORE</a></div>
     <div>🩺<a href='https://github.com/hyoni91/MediClick'> MEDICLICK</a></div>
     <div>📆<a href='https://github.com/hyoni91/TodoList'> TODOLIST</a></div>
-    </div>
+    </div> <br/>
+    <div style="text-align: left;">  </div> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Portfolio </h2>
+    <div>🔗<a href='https://hyoni91.github.io/portfolio/'> PORTFOLIO(~ing)</a></div>    
+    
+    
 
     
 
