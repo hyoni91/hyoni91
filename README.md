@@ -34,7 +34,7 @@
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💁‍♀️ Projects </h2>
     <div>📔<a> BOOK STORE</a></div>
     <div>🩺<a href='https://github.com/hyoni91/MediClick'> MEDICLICK</a></div>
-    <div>📆<a href='https://github.com/hyoni91/TodoList'> TODOLIST</a></div>
+    <div>📆<a href='https://hyoni91.github.io/TodoList/'> TODOLIST</a></div>
     </div> <br/>
     <div style="text-align: left;">  </div> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Portfolio </h2>
