@@ -10,20 +10,20 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;"> 
 <!--         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> -->
-        <h4>プログラミング言語・フレームワーク</h4>
+        <h4>Languages & Frameworks</h4>
         ・Java<br/>
         ・React<br/>
         ・Spring Boot<br>
         ・Python<br/>
         ・Flutter
-        <h4>データベース</h4>
+        <h4>database</h4>
         ・MariaDB
-        <h4>開発ツール</h4>
+        <h4>Development tools</h4>
         ・VS Code<br/>
         ・IntelliJ<br/>
-        <h4>バージョン管理</h4>
+        <h4>Version control</h4>
         ・GitHub
-        <h4>ライブラリ・UI フレームワーク</h4>
+        <h4>Libraries & UI Frameworks</h4>
         ・Bootstrap<br/>
         ・Nunnu - Korean font<br/>
         ・Font Awesome<br/>
