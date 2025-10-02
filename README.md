@@ -12,9 +12,10 @@
 <!--         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> -->
         <h4>Languages & Frameworks</h4>
         ・Java<br/>
+        ・TypeScript<br/>
+        ・Python<br/>
         ・React<br/>
         ・Spring Boot<br>
-        ・Python<br/>
         ・Flutter
         <h4>database</h4>
         ・MariaDB
@@ -22,10 +23,9 @@
         ・VS Code<br/>
         ・IntelliJ<br/>
         <h4>Version control</h4>
-        ・GitHub
-        ・Aws
-        <h4>Libraries & UI Frameworks</h4>
-        ・Bootstrap<br/>
+        ・GitHub<br/>
+        ・AWS<br/>
+        ・Vercel<br/>
     <div>
 <!--      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
