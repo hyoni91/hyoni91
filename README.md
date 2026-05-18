@@ -46,7 +46,7 @@
     <!-- <h4>KOREAN</h4> -->
     <!-- <div style="text-align: left;"> <a href=https://velog.io/@hyoni/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@hyoni/posts"></a> -->
     <h4>JAPANESE</h4>
-    <div style="text-align:　left;"> <span>🔍</span> <a href=https://zenn.dev/hyoni> Hyoni Blog</a> 
+    <div style="text-align:　left;"> <span>🔍</span> <a href=https://hyoni-log.com/> Hyoni Blog</a> 
     </div>  <br> 
     <div style="text-align: left;">  </div> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💁‍♀️ Projects </h2>
