@@ -53,7 +53,7 @@
     <div>📔 <a href='https://github.com/hyoni91/bookStore'>  BOOK STORE</a></div>
     <div>🩺 <a href='https://github.com/hyoni91/MediClick'>  MEDICLICK</a></div>
     <!-- <div>📆 <a href='https://hyoni91.github.io/TodoList/'>  TODOLIST</a></div> -->
-    <div>📚 <a href='https://newbookstore-omega.vercel.app/'> NEW-BOOKSTORE</a></div>
+    <div>📚 <a href='https://github.com/hyoni91/newbookstore'> NEW-BOOKSTORE</a></div>
     <div>🔍 <a href='https://github.com/hyoni91/python-crawling'> PYTHON-CRAWLING</a></div>
     <div>🎮 <a href='https://hyoni91.github.io/falling-catcher-game/'> CATCHER GAME</a></div>
     <div>🎫 <a href='https://github.com/hyoni91/ticket-practice'> TICKET-PRACTICE</a></div>
